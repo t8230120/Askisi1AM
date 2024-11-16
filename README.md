@@ -1,2 +1,2 @@
 # Askisi1AM
-Άσκηση αριθμού μητρώου
+System.out.println("ΑΜ: 8210064");
